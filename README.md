@@ -56,6 +56,4 @@ This repository contains various TypeScript projects ranging from simple calcula
 
 Clone the repository and navigate to the respective project directories. Follow the installation instructions and then run the TypeScript code for each project.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
